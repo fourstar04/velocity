@@ -9,3 +9,4 @@ logs/
 lib-cov/
 lib/parser/test.vm
 coverage/
+.idea
